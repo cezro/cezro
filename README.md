@@ -1,0 +1,1 @@
+[![GitHub Streak](https://streak-stats.demolab.com?user=cezro&theme=meta-dark&hide_border=true&border_radius=4.7&date_format=M%20j%5B%2C%20Y%5D&background=45%2C140C80%2C00FF97&fire=EB0000)](https://git.io/streak-stats)
