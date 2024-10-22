@@ -1,5 +1,5 @@
 <div style="text-align: center;" markdown="1">
-![FireWriting](https://tenor.com/view/fire-writing-gif-24533171)
+![FireWriting](https://tenor.com/view/fire-writing-gif-24533171.gif)
 </div>
 
 
