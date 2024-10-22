@@ -1,5 +1,5 @@
 <div style="text-align: center;" markdown="1">
-![FireWriting](https://tenor.com/view/fire-writing-gif-24533171.gif)
+<img src="https://media1.tenor.com/m/dxPl_UoR8J0AAAAd/fire-writing.gif" width="40" height="40" />
 </div>
 
 
