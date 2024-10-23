@@ -1,6 +1,6 @@
-<div style="text-align: center;" markdown="1">
+<p align="center">
 <img src="https://media1.tenor.com/m/dxPl_UoR8J0AAAAd/fire-writing.gif" width="720" height="400" />
-</div>
+</p>
 
 
 
