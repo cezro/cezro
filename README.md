@@ -1,23 +1,72 @@
-# <p align="center">Working! What's working? Whatever I'm building.</p>
-<br />
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Full-stack+developer.;Building+quietly.+Shipping+loudly." alt="Typing SVG" />
+  </a>
+</h1>
+
+---
+
+### about
+
+> Writing code nobody sees. Building things everyone uses.
+
+Full-stack developer focused on clean interfaces, solid APIs, and the details in between.  
+Currently shipping. Always learning.
+
+---
+
+### stack
+
 <p align="center">
-<img src="https://media1.tenor.com/m/dxPl_UoR8J0AAAAd/fire-writing.gif" width="720" height="400" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,postgres,mongodb&theme=dark" />
 </p>
 
-# <p align="center">📊 GitHub Stats:</p>
+---
+
+### projects
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cezro&theme=aura&hide_border=false&include_all_commits=true&count_private=true" />
+  <a href="https://github.com/cezro/gdsc-cpu-webapp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cezro&repo=gdsc-cpu-webapp&theme=tokyonight&hide_border=true" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/cezro/maze-generator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cezro&repo=maze-generator&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
+### stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cezro&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cezro&theme=aura&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=cezro&theme=tokyonight&hide_border=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cezro&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cezro&theme=tokyonight&hide_border=true&layout=compact" />
+</p>
+
+---
+
+### contact
+
+<p align="center">
+  <a href="mailto:louiedalecervera@gmail.com">
+    <img src="https://img.shields.io/badge/email-louiedalecervera%40gmail.com-7AA2F7?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/louie-dale-cervera/">
+    <img src="https://img.shields.io/badge/linkedin-louie--dale--cervera-7AA2F7?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/portfolio-coming%20soon-555555?style=flat-square" />
 </p>
 
 ---
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=cezro&icon=6&color=12" />
+    <img src="https://visitcount.itsvg.in/api?id=cezro&icon=6&color=9" />
   </a>
 </p>
