@@ -66,7 +66,5 @@ Currently shipping. Always learning.
 ---
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=cezro&icon=6&color=9" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=cezro&color=7AA2F7&style=flat-square&label=profile+views" />
 </p>
