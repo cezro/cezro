@@ -8,10 +8,8 @@
 
 ### about
 
-> Writing code nobody sees. Building things everyone uses.
-
 Full-stack developer focused on clean interfaces, solid APIs, and the details in between.  
-Currently shipping. Always learning.
+Always learning.
 
 ---
 
@@ -19,20 +17,6 @@ Currently shipping. Always learning.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,postgres,mongodb&theme=dark" />
-</p>
-
----
-
-### projects
-
-<p align="center">
-  <a href="https://github.com/cezro/gdsc-cpu-webapp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cezro&repo=gdsc-cpu-webapp&theme=tokyonight&hide_border=true" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/cezro/maze-generator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cezro&repo=maze-generator&theme=tokyonight&hide_border=true" />
-  </a>
 </p>
 
 ---
