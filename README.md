@@ -44,7 +44,9 @@ Always learning.
     <img src="https://img.shields.io/badge/linkedin-louie--dale--cervera-7AA2F7?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/portfolio-coming%20soon-555555?style=flat-square" />
+  <a href="https://louiecervera.dev">
+    <img src="https://img.shields.io/badge/portfolio-louiecervera.dev-7AA2F7?style=flat-square" />
+  </a>
 </p>
 
 ---
